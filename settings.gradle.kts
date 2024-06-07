@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FitLifePro"
+rootProject.name = "FitnessAppJava"
 include(":app")
+ 
